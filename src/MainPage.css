@@ -1,0 +1,11 @@
+.main-page {
+    margin: auto;
+    margin-left: 5vw;
+    margin-top: 3vw;
+}
+
+.graph-page {
+    width: 45vw !important;
+    height: 25vw !important;
+    padding-right: 20vw;
+}
